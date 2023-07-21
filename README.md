@@ -14,7 +14,7 @@
 ### About Me 🚀
 💻 I’m a data enthusiast, worked as **Data Analyst** and **Analytics Engineer** for almost a decade, </br> </br>
 👨🏼‍💻 I'm passionate about continuous learning and now I'm developing my skills to become a **Data Scientist**. </br></br>
-💬 Feel more than welcome to contact me if you need any help or want to start your data career! </br></br>
+💬 Feel more than welcome to contact me if you need any help or if you want to start your data career! </br></br>
    
  <b><i>The world's most valuable resource is no longer oil, but data. 
     
