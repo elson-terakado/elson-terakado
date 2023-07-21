@@ -1,4 +1,4 @@
-### Hi there, I'm Elson, welcome to my Github. 👋
+### Hi there! I'm Elson, welcome to my Github. 👋
 
 <hr />
 
